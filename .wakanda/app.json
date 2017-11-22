@@ -1,0 +1,17 @@
+{
+  "name": "EmployeeRX",
+  "components": [
+    {
+      "type": "backend",
+      "template": "EmployeeCompanyLogin",
+      "name": "backend",
+      "path": "./backend"
+    },
+        {
+      "type": "web",
+      "template": "Employees",
+      "name": "web",
+      "path": "./web"
+    }
+    ]
+}
