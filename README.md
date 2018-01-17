@@ -1,5 +1,6 @@
 # ngrx-wakanda-employee
-Complete Wakanda ngrx Frontend Template. 
+Complete Wakanda ngrx Frontend Template built based on https://github.com/ngrx
+Works with EmployeeCompanyLogin Backend Template at: https://github.com/rmello4d/EmployeeCompanyLogin
 
 
 # Installation (for Wakanda 2.2 or higher)
