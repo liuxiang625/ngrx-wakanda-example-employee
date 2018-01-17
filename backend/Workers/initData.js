@@ -1,1 +1,0 @@
-//Adding a userif (! directory.group('user'))	directory.addGroup('user');ds.User.remove();var backendLocation = getFolder().path;var user = new ds.User({	email: "demo@wakanda.io", 	password: "123", 	fullName: "Demo",	role: "user"});user.save();user.photo=File(backendLocation + 'Workers/profile.jpg');user.save();
